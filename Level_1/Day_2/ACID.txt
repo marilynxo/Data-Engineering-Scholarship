@@ -1,0 +1,1 @@
+Explains ACID properties of databases with practical examples.
