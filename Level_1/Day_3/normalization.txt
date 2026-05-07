@@ -1,0 +1,1 @@
+Explores database normalization concepts, covering 1NF, 2NF, 3NF, BCNF, 4NF and 5NF.
