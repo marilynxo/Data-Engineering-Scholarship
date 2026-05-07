@@ -1,0 +1,1 @@
+Illustrates database design issues with examples of poor vs. well-structured schemas, highlighting redundancy, inconsistency, and data access challenges.
