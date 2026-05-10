@@ -1,0 +1,1 @@
+Covers Data Control Language (DCL) concepts, alongside a complete overview of MySQL commands including DDL, DML, DQL, TCL/DTL, and DCL, serving as a practical reference guide.
