@@ -1,0 +1,5 @@
+Churn Prediction Lab:  
+AI‑based telecom churn prediction implemented in MSSQL Server, featuring customer risk scoring, churn dashboards, and retention campaign recommendations.
+
+Business Case Mapping:  
+Telecom operator business case mapped to MSSQL database fields, covering customers, subscribers, recharge transactions, and data usage analytics.
