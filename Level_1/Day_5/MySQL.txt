@@ -1,0 +1,1 @@
+Provides a comprehensive MySQL learning resource featuring query examples for all major command categories (DDL, DML, DQL, DTL, DCL). Also includes practical labs covering datatypes, storage engines, division operations, SQL operators, and clauses to strengthen database fundamentals.

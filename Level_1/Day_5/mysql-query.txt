@@ -1,1 +1,0 @@
-Includes MySQL query examples, covering DML operations like SELECT along with DDL, DQL, DTL, and DCL commands.
