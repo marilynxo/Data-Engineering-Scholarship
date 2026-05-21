@@ -1,0 +1,1 @@
+Explains stored procedures and stored functions with practical examples in MySQL and MSSQL. Also includes DCL in MSSQL.
