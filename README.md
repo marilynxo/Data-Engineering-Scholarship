@@ -12,5 +12,5 @@ Level_1/
 ├── Day_6/ → [Database Views, JOIN](Level_1/Day_6)  
 ├── Day_7/ → [DCL, MySQL Commands Summary](Level_1/Day_7)  
 ├── Day_8/ → [Churn Prediction, Business Case using MSSQL Server](Level_1/Day_8)  
-└── Day_9,10/ → [Stored Procedures](Level_1/Day_9,10)  
+└── Day_9,10/ → [Stored Procedures & Functions (MySQL+MSSQL), DCL (MSSQL)](Level_1/Day_9,10)  
 
