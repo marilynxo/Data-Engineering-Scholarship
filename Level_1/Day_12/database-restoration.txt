@@ -1,0 +1,1 @@
+Explains the process of restoring databases in MSSQL by handling primary data (.mdf) and log (.ldf) files, showing how to copy and preserve them as backups for recovery and maintenance.
