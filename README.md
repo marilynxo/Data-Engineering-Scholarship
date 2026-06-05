@@ -3,7 +3,7 @@ All activities and assignments from Data Engineering Scholarship class by Realis
 
 ## Table of Contents
 
-Level_1/   
+Level_1/  
 ├── Day_1/ → [Poor vs. Good Schema, Data Redundancy & Inconsistency, Access Challenges](Level_1/Day_1)  
 ├── Day_2/ → [ACID Properties](Level_1/Day_2)  
 ├── Day_3/ → [Normalization (1NF–5NF, incl. BCNF)](Level_1/Day_3)  
@@ -14,6 +14,10 @@ Level_1/
 ├── Day_8/ → [Churn Prediction, Business Case using MSSQL Server](Level_1/Day_8)  
 ├── Day_9,10/ → [Stored Procedures & Functions (MySQL+MSSQL), DCL (MSSQL)](Level_1/Day_9,10)  
 ├── Day_11/ → [Data Migration](Level_1/Day_11)  
-└── Day_12/ → [Database Restoration (MSSQL .mdf/.ldf backup)](Level_1/Day_12)  
+├── Day_12/ → [Database Restoration (MSSQL .mdf/.ldf backup)](Level_1/Day_12)  
+└── Day_13/ → [Compliance Test (MySQL+MSSQL)](Level_1/Day_13)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+└── Assignment/ → [MSSQL Overview](Level_1/Day_13/Assignment)  
+
 
 
