@@ -1,0 +1,5 @@
+Covers compliance testing in MySQL and MSSQL, and assignments on advanced MSSQL topics including:
+Stored Procedures – encapsulating SQL logic for reuse and automation
+Stored Functions – creating reusable computations and return values
+Triggers – enforcing business rules and automating responses to data changes
+Backup/Restore Problems – practicing database recovery and maintenance scenarios
