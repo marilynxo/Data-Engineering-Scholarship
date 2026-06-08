@@ -1,0 +1,1 @@
+Covers Oracle database commands across DDL, DML, DQL, DTL, and DCL categories.
