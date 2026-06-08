@@ -1,0 +1,1 @@
+Covers Oracle database views with practical examples of their use cases.
