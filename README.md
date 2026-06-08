@@ -15,9 +15,10 @@ Level_1/
 ├── Day_9,10/ → [Stored Procedures & Functions (MySQL+MSSQL), DCL (MSSQL)](Level_1/Day_9,10)  
 ├── Day_11/ → [Data Migration](Level_1/Day_11)  
 ├── Day_12/ → [Database Restoration (MSSQL .mdf/.ldf backup)](Level_1/Day_12)  
-└── Day_13/ → [Compliance Test (MySQL+MSSQL)](Level_1/Day_13)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+├── Day_13/ → [Compliance Test (MySQL+MSSQL)](Level_1/Day_13)  
+├&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 └── Assignment/ → [MSSQL Overview](Level_1/Day_13/Assignment)  
-
+├── Day_14/ → [Oracle Overview](Level_1/Day_14)  
+└── Day_15/ → [Oracle Database Views](Level_1/Day_15)  
 
 
