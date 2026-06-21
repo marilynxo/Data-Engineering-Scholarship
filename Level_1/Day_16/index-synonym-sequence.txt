@@ -1,0 +1,1 @@
+Provides practical exercises in Oracle database, focusing on testing and validating indexes for query optimization, synonyms for simplified object references, and sequences for automated key generation.
