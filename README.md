@@ -19,6 +19,10 @@ Level_1/
 ├&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 └── Assignment/ → [MSSQL Overview](Level_1/Day_13/Assignment)  
 ├── Day_14/ → [Oracle Overview](Level_1/Day_14)  
-└── Day_15/ → [Oracle Database Views](Level_1/Day_15)  
+├── Day_15/ → [Oracle Database Views](Level_1/Day_15)  
+├── Day_16/ → [Index, Synonym, Sequence (Oracle)](Level_1/Day_16)  
+├── Day_17/ → [PL/SQL Conditions, Loops, SQL within PL/SQL, Exception (Oracle)](Level_1/Day_17)  
+├── Day_18/ → [PL/SQL Cursors, Procedures, Functions (Oracle)](Level_1/Day_18)  
+└── Day_19/ → [PL/SQL Package, Trigger (Oracle)](Level_1/Day_19)  
 
 
