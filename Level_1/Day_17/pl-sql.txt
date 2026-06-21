@@ -1,1 +1,1 @@
-Covers PL/SQL programming in Oracle, including conditions, loops, procedures, and exception handling.
+Covers PL/SQL programming in Oracle, including conditions, loops, SQL within PL/SQL, and exception handling.
