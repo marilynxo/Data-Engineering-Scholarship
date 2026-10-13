@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Facebook",
+    "category_code": "social",
+    "founded_year": 2004,
+    "founded_month": "February",
+    "founded_day": 4,
+    "number_of_employees": 50000
+  },
+  {
+    "name": "Webify Solutions",
+    "category_code": "web",
+    "founded_year": 2005,
+    "founded_month": "May",
+    "founded_day": 12,
+    "number_of_employees": 50
+  },
+  {
+    "name": "Twitter",
+    "category_code": "social",
+    "founded_year": 2006,
+    "founded_month": "March",
+    "founded_day": 21,
+    "number_of_employees": 2000
+  },
+  {
+    "name": "Enterprise Logic",
+    "category_code": "enterprise",
+    "founded_year": 2005,
+    "founded_month": "January",
+    "founded_day": 1,
+    "number_of_employees": 35
+  },
+  {
+    "name": "Millennium Tech",
+    "category_code": "software",
+    "founded_year": 2000,
+    "founded_month": "June",
+    "founded_day": 15,
+    "number_of_employees": 100
+  },
+  {
+    "name": "Midsize Corp",
+    "category_code": "hardware",
+    "founded_year": 1998,
+    "founded_month": "July",
+    "founded_day": 1,
+    "number_of_employees": 20
+  },
+  {
+    "name": "Acme Innovations",
+    "category_code": "biotech",
+    "founded_year": 2010,
+    "founded_month": "March",
+    "founded_day": 1,
+    "number_of_employees": 15
+  },
+  {
+    "name": "Alpha Ventures",
+    "category_code": "finance",
+    "founded_year": 2012,
+    "founded_month": "January",
+    "founded_day": 1,
+    "number_of_employees": 40,
+    "acquisition": {
+      "price_amount": 40000000,
+      "acquired_month": 5,
+      "acquired_year": 2015
+    }
+  },
+  {
+    "name": "Beta Systems",
+    "category_code": "software",
+    "founded_year": 2013,
+    "founded_month": "January",
+    "founded_day": 15,
+    "number_of_employees": 10,
+    "acquisition": {
+      "price_amount": 15000000,
+      "acquired_month": 1,
+      "acquired_year": 2014
+    }
+  }
+]

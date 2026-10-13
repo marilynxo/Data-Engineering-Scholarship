@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Steve",
+    "age": 35,
+    "phone": {
+      "ext": "1234",
+      "personal": "555-0101"
+    },
+    "favorites": {
+      "food": "burgers",
+      "artist": "Van Gogh"
+    },
+    "privileges": "user"
+  },
+  {
+    "name": "Alice",
+    "age": 28,
+    "phone": {
+      "ext": "2143",
+      "personal": "555-0202"
+    },
+    "favorites": {
+      "food": "pizza",
+      "artist": "Monet"
+    },
+    "privileges": "user"
+  },
+  {
+    "name": "Willy",
+    "age": 25,
+    "phone": {
+      "ext": "4321",
+      "personal": "555-0303"
+    },
+    "favorites": {
+      "food": "sushi",
+      "artist": "Picasso"
+    },
+    "privileges": "user"
+  },
+  {
+    "name": "Bob",
+    "age": 42,
+    "phone": {
+      "ext": "5678",
+      "personal": "555-0404"
+    },
+    "favorites": {
+      "food": "pizza",
+      "artist": "Da Vinci"
+    },
+    "privileges": "admin"
+  },
+  {
+    "name": "John",
+    "age": 31,
+    "phone": {
+      "ext": "9999",
+      "personal": "555-0505"
+    },
+    "favorites": {
+      "food": "tacos",
+      "artist": "Dalí"
+    },
+    "privileges": "user"
+  }
+]

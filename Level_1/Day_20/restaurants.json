@@ -1,0 +1,67 @@
+[
+  {
+    "restaurant_id": "1001",
+    "name": "Bronx Grill",
+    "borough": "Bronx",
+    "cuisine": "Steak",
+    "address": {
+      "street": "Main St",
+      "zipcode": "10466"
+    },
+    "grades": [
+      { "score": 95, "grade": "A" }
+    ]
+  },
+  {
+    "restaurant_id": "1002",
+    "name": "Brooklyn Steakhouse",
+    "borough": "Brooklyn",
+    "cuisine": "Steak",
+    "address": {
+      "street": "Atlantic Ave",
+      "zipcode": "11201"
+    },
+    "grades": [
+      { "score": 80, "grade": "A" }
+    ]
+  },
+  {
+    "restaurant_id": "1003",
+    "name": "Morris Park Bake Shop",
+    "borough": "Bronx",
+    "cuisine": "Bakery",
+    "address": {
+      "street": "Original St",
+      "zipcode": "10462"
+    },
+    "grades": [
+      { "score": 65, "grade": "B" }
+    ]
+  },
+  {
+    "restaurant_id": "1004",
+    "name": "Classic Diner",
+    "borough": "Queens",
+    "cuisine": "American ",
+    "address": {
+      "street": "Queens Blvd",
+      "zipcode": "11101"
+    },
+    "grades": [
+      { "score": 85, "grade": "A" }
+    ]
+  },
+  {
+    "restaurant_id": "1005",
+    "name": "Golden Dragon",
+    "borough": "Manhattan",
+    "cuisine": "Chinese",
+    "address": {
+      "street": "Broadway",
+      "zipcode": "10001"
+    },
+    "grades": [
+      { "score": 92, "grade": "A" }
+    ]
+  }
+]
