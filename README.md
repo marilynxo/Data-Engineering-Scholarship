@@ -24,5 +24,6 @@ Level_1/
 ├── Day_17/ → [PL/SQL Conditions, Loops, SQL within PL/SQL, Exception (Oracle)](Level_1/Day_17)  
 ├── Day_18/ → [PL/SQL Cursors, Procedures, Functions (Oracle)](Level_1/Day_18)  
 ├── Day_19/ → [PL/SQL Package, Trigger (Oracle)](Level_1/Day_19)  
-└── Day_20/ → [MongoDB Overview](Level_1/Day_20)  
+├── Day_20/ → [MongoDB Overview](Level_1/Day_20)  
+└── Day_21/ → [MongoDB + Clickhouse](Level_1/Day_21)  
 
