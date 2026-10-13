@@ -1,0 +1,1 @@
+Demonstrates document-oriented database using MongoDB and columnar database using Clickhouse.
